@@ -7,7 +7,7 @@
   "git": "https://github.com/Ore4444/dc.js-package.git",
   "packages": {
       "Crossfilter": {
-          "branch": "custom",
+          "branch": "master",
           "git": "git@github.com:aectann/crossfilter-package.git"
       }
   }
