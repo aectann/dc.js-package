@@ -4,11 +4,5 @@
   "homepage": "http://nickqizhu.github.io/dc.js/",
   "author": "Nick Zhu <http://nzhu.blogspot.ca/>",
   "version": "0.0.1",
-  "git": "https://github.com/Ore4444/dc.js-package.git",
-  "packages": {
-      "Crossfilter": {
-          "branch": "master",
-          "git": "git@github.com:aectann/crossfilter-package.git"
-      }
-  }
+  "git": "https://github.com/Ore4444/dc.js-package.git"
 }
