@@ -6,6 +6,9 @@
   "version": "0.0.1",
   "git": "https://github.com/Ore4444/dc.js-package.git",
   "packages": {
-      "Crossfilter": "0.0.2"
+      "Crossfilter": {
+          "branch": "custom",
+          "git": "git@github.com:aectann/crossfilter-package.git"
+      }
   }
 }
